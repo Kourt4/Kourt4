@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hellow World! 👋
+## I am Kourt4 and I am here to learn! 😁
 
 <!--
 **Kourt4/Kourt4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
